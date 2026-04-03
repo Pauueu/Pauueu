@@ -1,16 +1,59 @@
-## Hi there 👋
+# Cześć! Jestem Paweł Siwiec 👋
+Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie Wrocławskim. Tworzę własne strony internetowe oraz projekty, które realizuję zarówno w ramach studiów, jak i z czystej pasji oraz potrzeby tworzenia.
 
-<!--
-**Pauueu/Pauueu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Spis Treści
+* [🌐 **Projekty Webowe**](#-projekty-webowe)
+* [💻 **C++**](#-projekty-w-c)
+* [🎮 **Unity**](#-projekty-w-unity)
+* [📝 **Inne**](#-inne-projekty)
+* [📝 **Inne**](#-kinne)
+* [☎️ **Kontakt**](#kontakt)
 
-Here are some ideas to get you started:
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Projekty Webowe
+## Webowe projekty komercyjne
+
+* ### **Strona 1**
+
+* ### **Strona 2**
+
+## Webowe projekty akademickie
+* ### **Projekt strony sklepu internetowego**
+* ### **Projekt strony głównej restauracji**
+* ### **Projekty systemu obsługi kina**
+
+<br>
+<br>
+
+# 💻 Projekty w C++
+* ### **Prosty silnik do tworzenia gier w c++**
+* ### **Projekt prostej gry przy użciu biblioteki SFML**
+
+<br>
+<br>
+
+# 🎮 Projekty w Unity
+* ### **Gra 1**
+* ### **Gra 2**
+* ### **Gra 3**
+
+<br>
+<br>
+
+# 📝 Inne projekty
+* ### **Grupowy projekt aplikacji do zarządzania finansami**
+    napisany w pythonie i przy użyciu biblioteki Tkinter 
+
+<br>
+<br>
+
+# ☎️ Kinne
+
+# ☎️ Kontakt
+
+### Email: 
+
+### LinkedIn: 
