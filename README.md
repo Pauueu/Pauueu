@@ -6,8 +6,7 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 * [💻 **C++**](#-projekty-w-c)
 * [🎮 **Unity**](#-projekty-w-unity)
 * [📝 **Inne**](#-inne-projekty)
-* [📝 **Inne**](#-kinne)
-* [☎️ **Kontakt**](#kontakt)
+* [☎️ **Kontakt**](#-kontakt)
 
 <br>
 <br>
@@ -49,8 +48,6 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 
 <br>
 <br>
-
-# ☎️ Kinne
 
 # ☎️ Kontakt
 
