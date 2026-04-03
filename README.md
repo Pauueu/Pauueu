@@ -46,7 +46,8 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 <br>
 
 # 💻 Projekty w C++
-* ### **Prosty silnik do tworzenia gier w c++**
+* ### **[Prosty silnik do tworzenia gier w c++](https://github.com/Pauueu/cpp-simple-game-engine)**
+    W projekcie wykorzystuje bibliotekę SFML. Projekt jest w trakcie prac.
 * ### **Projekt prostej gry przy użciu biblioteki SFML**
 
 <br>
