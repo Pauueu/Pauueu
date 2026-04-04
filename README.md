@@ -49,7 +49,29 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 
     🔗 **Repozytorium:** [github.com/Pauueu/projekt-strony-restauracji-pai-1](https://github.com/Pauueu/projekt-strony-restauracji-pai-1)
 
+<<<<<<< HEAD
     Akademicki projekt strony głównej restauracji. Skupiłem się tu na warstwie wizualnej oraz logice Front-Endowej. Najważniejszym elementem projektu jest napisany w **Java Script** system dynamicznego filtrowania pozycji w menu (np. dania wegańskie, wegetariańskie), który działa bez przeładowania strony. Projekt wykorzystuje czysty `HTML`, `CSS` i `JavaScript`.
+=======
+# 💻 Projekty w C++
+* ### **[Prosty silnik do tworzenia gier w c++](https://github.com/Pauueu/cpp-simple-game-engine)**
+    W projekcie wykorzystuje bibliotekę SFML. Projekt jest w trakcie prac.
+* ### **Projekt prostej gry przy użciu biblioteki SFML**
+
+<br>
+<br>
+
+# 🎮 Projekty w Unity
+* ### **Gra 1**
+* ### **Gra 2**
+* ### **Gra 3**
+
+<br>
+<br>
+
+# 📝 Inne projekty
+* ### **Grupowy projekt aplikacji do zarządzania finansami**
+    napisany w pythonie i przy użyciu biblioteki Tkinter 
+>>>>>>> ed5e0fd8bf5c72e036790000362189d38028cd46
 
 <br>
 <br>
