@@ -38,40 +38,20 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 * ### **Projekt strony sklepu internetowego**
     🔗 **Repozytorium:** [github.com/Pauueu/projekt-strony-sklepu-pai-2](https://github.com/Pauueu/projekt-strony-sklepu-pai-2)
 
-    Zbudowałem od zera funkcjonalny sklep internetowy oparty na **PHP i MySQL**. Poza podstawowymi założeniami (koszyk, dynamiczne stany magazynowe), zaimplementowałem system ról (Administrator / Klient). Największym atutem projektu jest jego infrastruktura, całkowicie z konteneryzowałem środowisko deweloperskie (**Docker / GitHub Codespaces**), pozwalając każdemu na uruchomienie działającego serwera z bazą danych za pomocą jednego kliknięcia. Przy projekcie wykorzystałem: `PHP`, `MySQL`, `JavaScript`, `HTML` i `CSS`.
+    Zbudowałem od zera funkcjonalny sklep internetowy oparty na **PHP i MySQL**. Poza podstawowymi założeniami (koszyk, dynamiczne stany magazynowe), zaimplementowałem system ról (Administrator / Klient). Największym atutem projektu jest jego infrastruktura, całkowicie z konteneryzowałem środowisko deweloperskie (**Docker / GitHub Codespaces**), pozwalając każdemu na uruchomienie działającego serwera z bazą danych za pomocą jednego kliknięcia. Przy projekcie wykorzystałem: `PHP`, `SQL`, `JavaScript`, `HTML` i `CSS`.
 
 
 * ### **Projekt systemu obsługi kina**
     🔗 **Repozytorium:** [github.com/Pauueu/obsluga-kina-bazy-danych](https://github.com/Pauueu/obsluga-kina-bazy-danych)
+
+    Zaprojektowałem i wdrożyłem **w pełni znormalizowaną bazę danych** do obsługi rezerwacji biletów kinowych. Sercem projektu jest architektura danych, schemat wykorzystuje relacje, dziedziczenie ról oraz więzy integralności (`CASCADE`, `RESTRICT`). Logika i komunikacja z bazą zostały napisane w `PHP`. Projekt posiada skonteneryzowane środowisko (Docker), dzięki czemu można go przetestować jednym kliknięciem za pomocą **GitHub Codespaces**. Przy projekcie wykorzystałem: `Visual Paradigm`, `SQL`, `PHP`.
 
 * ### **Projekt strony głównej restauracji**
     🔗 **Strona:** [pauueu.github.io/projekt-strony-restauracji-pai-1/](https://pauueu.github.io/projekt-strony-restauracji-pai-1/) 
 
     🔗 **Repozytorium:** [github.com/Pauueu/projekt-strony-restauracji-pai-1](https://github.com/Pauueu/projekt-strony-restauracji-pai-1)
 
-    Akademicki projekt strony głównej restauracji. Skupiłem się tu na warstwie wizualnej oraz logice Front-Endowej. Najważniejszym elementem projektu jest napisany w **Java Script** system dynamicznego filtrowania pozycji w menu (np. dania wegańskie, wegetariańskie), który działa bez przeładowania strony. Projekt wykorzystuje czysty `HTML`, `CSS` i `JavaScript`.
-
-# 💻 Projekty w C++
-* ### **[Prosty silnik do tworzenia gier w c++](https://github.com/Pauueu/cpp-simple-game-engine)**
-    W projekcie wykorzystuje bibliotekę SFML. Projekt jest w trakcie prac.
-* ### **Projekt prostej gry przy użciu biblioteki SFML**
-
-<br>
-<br>
-
-# 🎮 Projekty w Unity
-* ### **Gra 1**
-* ### **Gra 2**
-* ### **Gra 3**
-
-<br>
-<br>
-
-# 📝 Inne projekty
-* ### **Grupowy projekt aplikacji do zarządzania finansami**
-    napisany w pythonie i przy użyciu biblioteki Tkinter 
-
-
+    Akademicki projekt strony głównej restauracji. Skupiłem się tu na warstwie wizualnej oraz logice Front-Endowej. Najważniejszym elementem projektu jest napisany w **Java Script** system dynamicznego filtrowania pozycji w menu (np. dania wegańskie, wegetariańskie), który działa bez przeładowania strony. Projekt wykorzystuje czysty `HTML`, `CSS` i `JavaScript`.\
 <br>
 <br>
 
