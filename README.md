@@ -3,9 +3,6 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 
 ## 📌 Spis Treści
 * [🌐 **Projekty Webowe**](#-projekty-webowe)
-* [💻 **C++**](#-projekty-w-c)
-* [🎮 **Unity**](#-projekty-w-unity)
-* [📝 **Inne**](#-inne-projekty)
 * [☎️ **Kontakt**](#kontakt)
 
 <br>
@@ -13,13 +10,13 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 # 🌐 Projekty Webowe
 ## Webowe projekty komercyjne
 
-1. ### **[prezenterium.pl](https://prezenterium.pl/)** (ok. 900 wejść / 28 dni)
-    W pełni działający projekt oparty na WordPressie, który rozwijam od lipca 2025 roku. Stworzony przeze mnie od podstaw z myślą o generowaniu konwersji z afiliacji. Skupiłem się tutaj na maksymalnej wydajności i automatyzacji, tworząc w Pythonie autorski system do aktualizacji produktów, połączony przez API z modelami Gemini.
+1. ### 🔗 **[prezenterium.pl](https://prezenterium.pl/)** (ok. 900 wejść / 28 dni)
+    W pełni działający projekt oparty na WordPressie, który rozwijam od lipca 2025 roku. Stworzony przeze mnie od podstaw z myślą o generowaniu konwersji z afiliacji. Skupiłem się tutaj na maksymalnej wydajności i automatyzacji, tworząc w `Pythonie` autorski system do aktualizacji produktów, połączony przez API z modelami Gemini.
 
     W tym projekcie wdrożyłem i wykorzystałem:
     * **Architekturę Danych (ACF)**: świadoma rezygnacja z obciążającej wtyczki WooCommerce na rzecz autorskiej, lekkiej struktury opartej na Custom Post Types i Advanced Custom Fields (ACF). Zoptymalizowało to działanie strony i pozwoliło na precyzyjne mapowanie danych.
 
-    * **Integracje API**: łączenie się z API reklamodawcy, systemem WordPress oraz Google Gemini w celu automatycznej kategoryzacji produktów. System do kategoryzacji produktów: [github.com/Pauueu/ai_products_categorizer](https://github.com/Pauueu/ai_products_categorizer)
+    * **Integracje API**: łączenie się z API reklamodawcy, systemem WordPress oraz Google Gemini w celu automatycznej kategoryzacji produktów. System do kategoryzacji produktów: 🔗 [github.com/Pauueu/ai_products_categorizer](https://github.com/Pauueu/ai_products_categorizer)
 
     * **Pracę z AI**: wykorzystanie sztucznej inteligencji do stworzenia logiki systemu. Wymagało to sprawnego posługiwanie się różnymi LLM, weryfikacji i dobrego zrozumienia wygenerowanego kodu.
 
@@ -29,7 +26,7 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 
     * **SEO**: optymalizacja witryny w celu skutecznego pozycjonowania strony w wynikach wyszukiwania.
 
-2. ### **[panstwa-miasta.com.pl](https://panstwa-miasta.com.pl/)** (ok. 8000 wejść / 28 dni)
+2. ### 🔗 **[panstwa-miasta.com.pl](https://panstwa-miasta.com.pl/)** (ok. 8000 wejść / 28 dni)
     Portal internetowy oparty na systemie WordPress, w którego rozwój byłem zaangażowany od samego początku, czyli od 2019 roku. Praca przy tym projekcie pozwoliła mi w praktyce poznać funkcjonowanie tego systemu CMS oraz opanować podstawy optymalizacji treści pod kątem SEO.
 
     **Mój zakres obowiązków obejmował:**
@@ -39,30 +36,20 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 
 ## Webowe projekty akademickie
 * ### **Projekt strony sklepu internetowego**
+    🔗 **Repozytorium:** [github.com/Pauueu/projekt-strony-sklepu-pai-2](https://github.com/Pauueu/projekt-strony-sklepu-pai-2)
+
+    Zbudowałem od zera funkcjonalny sklep internetowy oparty na **PHP i MySQL**. Poza podstawowymi założeniami (koszyk, dynamiczne stany magazynowe), zaimplementowałem system ról (Administrator / Klient). Największym atutem projektu jest jego infrastruktura, całkowicie z konteneryzowałem środowisko deweloperskie (**Docker / GitHub Codespaces**), pozwalając każdemu na uruchomienie działającego serwera z bazą danych za pomocą jednego kliknięcia. Przy projekcie wykorzystałem: `PHP`, `MySQL`, `JavaScript`, `HTML` i `CSS`.
+
+
+* ### **Projekt systemu obsługi kina**
+    🔗 **Repozytorium:** [github.com/Pauueu/obsluga-kina-bazy-danych](https://github.com/Pauueu/obsluga-kina-bazy-danych)
+
 * ### **Projekt strony głównej restauracji**
-* ### **Projekty systemu obsługi kina**
+    🔗 **Strona:** [pauueu.github.io/projekt-strony-restauracji-pai-1/](https://pauueu.github.io/projekt-strony-restauracji-pai-1/) 
 
-<br>
-<br>
+    🔗 **Repozytorium:** [github.com/Pauueu/projekt-strony-restauracji-pai-1](https://github.com/Pauueu/projekt-strony-restauracji-pai-1)
 
-# 💻 Projekty w C++
-* ### **Prosty silnik do tworzenia gier w c++**
-* ### **Projekt prostej gry przy użciu biblioteki SFML**
-
-<br>
-<br>
-
-# 🎮 Projekty w Unity
-* ### **Gra 1**
-* ### **Gra 2**
-* ### **Gra 3**
-
-<br>
-<br>
-
-# 📝 Inne projekty
-* ### **Grupowy projekt aplikacji do zarządzania finansami**
-    napisany w pythonie i przy użyciu biblioteki Tkinter 
+    Akademicki projekt strony głównej restauracji. Skupiłem się tu na warstwie wizualnej oraz logice Front-Endowej. Najważniejszym elementem projektu jest napisany w **Java Script** system dynamicznego filtrowania pozycji w menu (np. dania wegańskie, wegetariańskie), który działa bez przeładowania strony. Projekt wykorzystuje czysty `HTML`, `CSS` i `JavaScript`.
 
 <br>
 <br>
@@ -70,6 +57,4 @@ Jestem studentem Informatyki Stosowanej i Systemów Pomiarowych na Uniwersytecie
 <a id="kontakt"></a>
 # ☎️ Kontakt
 
-### Email: 
-
-### LinkedIn: 
+### Email: paweu622@gmail.com
